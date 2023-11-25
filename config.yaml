@@ -18,9 +18,3 @@ log:
 telegram:
   api_id: 22241399
   hash_id: 5d8a24d581e2c1d3c97d06c36e516b19
-
-details:
-  image: C:\Users\srini\Downloads\elm.png
-  gif: C:\Users\srini\Downloads\giphy.gif
-  video: C:\Users\srini\Downloads\WhatsApp Video 2023-11-08 at 10.56.59 AM.mp4
-  document: C:\Users\srini\Downloads\5th sem student list.xlsx
